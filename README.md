@@ -29,7 +29,13 @@
   Architecture logicielle, bonnes pratiques backend et optimisation des performances
 
 - 👯 Je cherche à collaborer sur  
-  Projets web 
+  Projets web
+
+- 🎯 I’m open to opportunities  
+  Disponible pour :  
+  - 💼 Freelance (développement d’applications web)  
+  - 🏢 Temps plein (CDI / CDD)  
+  - 🎓 Stage en développement backend / fullstack  
 
 - 🤔 Je cherche de l’aide pour  
   Architecture avancée et conception de systèmes scalables
