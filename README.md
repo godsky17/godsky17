@@ -6,7 +6,24 @@
 ---
 
 - 🔭 Je travaille actuellement sur  
-  Applications web avec Laravel et Vue.js (CRUD, API, authentification)
+  Une application web de **recherche d’emploi automatisée**  
+
+  👉 Objectif : centraliser et filtrer des offres d’emploi selon des critères précis  
+
+  🔧 Fonctionnalités principales :
+  - Scraping d’offres d’emploi depuis différentes sources
+  - Filtrage des offres (technologies, localisation, type de contrat)
+  - Stockage et gestion des données via une base MySQL
+  - API REST pour exposer les données
+  - Interface utilisateur pour consulter les offres
+
+  🧠 Enjeux techniques :
+  - Gestion et nettoyage des données scrapées
+  - Optimisation des requêtes et performances backend
+  - Structuration du projet (architecture Laravel)
+
+  🛠️ Stack :
+  Laravel • MySQL • API REST • Vue.js
 
 - 🌱 J'apprends actuellement  
   Architecture logicielle, bonnes pratiques backend et optimisation des performances
@@ -21,9 +38,6 @@
   Email : [gautheyelohin@gmail.com]  
   LinkedIn : [[ton linkedin](https://www.linkedin.com/in/orph%C3%A9-do-neil-christian-y%C3%A9lohin-gauthe-089330248/?skipRedirect=true)]
 
-- ⚡ Fait intéressant:  
-  J’aime écrire du code propre et structuré
-
 ---
 
 ## 🧠 Stack technique
@@ -32,10 +46,10 @@
 Laravel / PHP • API REST • MySQL  
 
 **Frontend**  
-Vue.js • TailwindCSS  
+ Javascript • Vue.js • TailwindCSS • Bootstrap
 
 **Outils**  
-Git • GitHub • Postman  
+Git • GitHub • Postman • Notion 
 
 ---
 
